@@ -1,5 +1,6 @@
-## Hi there 👋
-
+💼 Carbigdata • QA Analyst • Backend Developer
+📖 Unicesumar • Software Analysis and Development
+🎮 Gamer
 <!--
 **mayaradj/mayaradj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-💼 Carbigdata • QA Analyst • Backend Developer
-📖 Unicesumar • Software Analysis and Development
-🎮 Gamer
+
 -->
