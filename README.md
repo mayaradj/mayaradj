@@ -1,6 +1,6 @@
-💼 Carbigdata • QA Analyst • Backend Developer
-📖 Unicesumar • Software Analysis and Development
-🎮 Gamer
+💼 Carbigdata • QA Analyst • Backend Developer <br>
+📖 Unicesumar • Software Analysis and Development <br>
+🎮 Gamer <br>
 <!--
 **mayaradj/mayaradj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
