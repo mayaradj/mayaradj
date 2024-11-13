@@ -1,7 +1,12 @@
+<div align="center">
+  
 💼 Carbigdata <br>
 💻 Java Developer • QA Analyst • Backend Developer <br>
 📖 Unicesumar • Software Analysis and Development <br>
 🎮 Gamer <br>
+
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/mayara-della-justina-1a24a3178/)
+</div>
 <!--
 **mayaradj/mayaradj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
