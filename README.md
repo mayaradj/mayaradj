@@ -1,4 +1,5 @@
-💼 Carbigdata • QA Analyst • Backend Developer <br>
+💼 Carbigdata <br>
+💻 Java Developer • QA Analyst • Backend Developer <br>
 📖 Unicesumar • Software Analysis and Development <br>
 🎮 Gamer <br>
 <!--
